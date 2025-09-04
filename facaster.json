@@ -1,0 +1,19 @@
+{
+  "accountAssociation": {
+    "header": "PLACEHOLDER_HEADER",
+    "payload": "PLACEHOLDER_PAYLOAD", 
+    "signature": "PLACEHOLDER_SIGNATURE"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "My First Mini App",
+    "iconUrl": "https://my-first-mini-app-rho.vercel.app/icon.png",
+    "homeUrl": "https://my-first-mini-app-rho.vercel.app/",
+    "imageUrl": "https://my-first-mini-app-rho.vercel.app/og-image.png",
+    "buttonTitle": "Open App",
+    "splashImageUrl": "https://my-first-mini-app-rho.vercel.app/splash.png",
+    "splashBackgroundColor": "#f7f7f7",
+    "description": "My first Farcaster Mini App built with React and TypeScript",
+    "subtitle": "Getting started with Farcaster Mini Apps"
+  }
+}
